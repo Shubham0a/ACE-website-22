@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+}
+.maintainance{
+    display: block;
+    background-color: white;
+    width: auto;
+    margin: 0;
+    padding: 10px;
+    border-color: red;
+}
+#maintainance-content{
+    position: relative;
+    display: block;
+    background-color: white;
+    width: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+}
+.maintain-img-box{
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+#maintain-img{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40vw;
+}
+.content{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    color: red;
+    font: fallback;
+    font-size: 3vw;
+    margin: 0;
+    padding: 0;
+    text-shadow: #FC0 1px 0 10px;
+}
