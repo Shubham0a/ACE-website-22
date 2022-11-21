@@ -7,4 +7,4 @@ This is not the original design this was the design idea developed by me.
   </ul>
 
 ## Feel free to contact me for 
-<a href="shubhamiitpkd.netlify.app">CONNECT ME</a>
+<a href="https://www.shubhamiitpkd.netlify.app">CONNECT ME</a>
