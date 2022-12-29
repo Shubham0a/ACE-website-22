@@ -1,7 +1,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Shubham-0a/ACE?color=blue)
 ![GitHub language count](https://img.shields.io/github/languages/count/Shubham-0a/ACE)
-![GitHub all releases](https://img.shields.io/github/downloads/Shubham-0a/ACE/total)
+
 <!--
+![GitHub all releases](https://img.shields.io/github/downloads/Shubham-0a/ACE/total)
 ```diff
 - This is a red colored line
 + This is a green colored line
