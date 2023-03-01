@@ -1,5 +1,5 @@
-![GitHub top language](https://img.shields.io/github/languages/top/Shubham-0a/ACE?color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/Shubham-0a/ACE)
+![GitHub top language](https://img.shields.io/github/languages/top/Shubham-0a/ACE-website-22?color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/Shubham-0a/ACE-website-22)
 
 <!--
 ![GitHub all releases](https://img.shields.io/github/downloads/Shubham-0a/ACE/total)
@@ -13,7 +13,7 @@
 This is not the original design this was the design idea developed by me.
 
 # check the design on
-<a href="https://shubham-0a.github.io/ACE/">CLICK HERE</a>
+<a href="https://shubham-0a.github.io/ACE-website-22/">CLICK HERE</a>
 # Pre-requisite 
   <ul>
      <li>HTML</li>
