@@ -9,10 +9,10 @@
 @@ This is a purple colored line @@
 ```
 -->
-# ACE
+# ACE 2022
 This is not the original design this was the design idea developed by me.
 
-# check the design on
+## Check the design on
 <a href="https://shubham-0a.github.io/ACE-website-22/">CLICK HERE</a>
 # Pre-requisite 
   <ul>
@@ -20,7 +20,7 @@ This is not the original design this was the design idea developed by me.
      <li>CSS</li>
   </ul>
 
-## Feel free to contact me for 
+## Feel free to contact me 
 <a href="https://shubhamiitpkd.netlify.app/">CONNECT ME</a>
 
 [Portfolio-website](https://shubhamiitpkd.netlify.app/)
