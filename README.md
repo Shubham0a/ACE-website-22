@@ -14,13 +14,16 @@ This is not the original design this was the design idea developed by me.
 
 ## Check the design on
 <a href="https://shubham-0a.github.io/ACE-website-22/">CLICK HERE</a>
-# Pre-requisite 
+
+## Pre-requisite 
   <ul>
      <li>HTML</li>
      <li>CSS</li>
+     <li>Javascript</li>
   </ul>
+  
+## Feel free to contact me
 
-## Feel free to contact me 
 <a href="https://shubhamiitpkd.netlify.app/">CONNECT ME</a>
 
 [Portfolio-website](https://shubhamiitpkd.netlify.app/)
